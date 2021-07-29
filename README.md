@@ -7,5 +7,5 @@ Get location information from certain ip address
 |Name| GeoIP |
 |----|--|
 |Version|1.0.0|
-|Build|b753847|
+|Build|b212907|
 |Developer|Kyaz0x1|
