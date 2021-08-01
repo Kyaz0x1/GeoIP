@@ -1,5 +1,5 @@
 # GeoIP
-Get location information from certain ip address
+Get location information from certain ip addres
 ### Demo
 <img src="img/GeoIP.png" />
 
